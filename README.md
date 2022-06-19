@@ -1,5 +1,5 @@
 ### EX NO : 09
-### DATE  : 
+### DATE  : 27/05/2022
 # <p align="center"> Develop a application to add animations: Move,blink,fade,clockwise,zoom,slide operations are perform in android studio </p>
 ## AIM:
 
